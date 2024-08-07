@@ -1,1 +1,8 @@
 
+class Solution {
+public:
+    int strStr(string h, string n) {
+        int n=h.find(n);
+        return n;
+    }
+};
